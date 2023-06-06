@@ -6,6 +6,7 @@
 ----
 ----
 
+![cover](./cover.jpg)
 <img src="cover.jpg" width="300">
 
 -----

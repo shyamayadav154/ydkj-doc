@@ -1,3 +1,13 @@
 {
-    "apA":"Appendix A:  Acknowledgements"
+    "foreword":"Foreword by Shane Hudson",
+    "ch1":"Ch 1:  What's the Scope?",
+    "ch2":"Ch 2:  Lexical Scope",
+    "ch3":"Ch 3:  Functoin vs. Block Scope",
+    "ch4":"Ch 4:  Hoisting",
+    "ch5":"Ch 5:  Scope Closure",
+    "apA":"Appx. A:  Dynamic Scope",
+    "apB":"Appx. B:  Polyfilling Block Scope",
+    "apC":"Appx. C:  Lexical-this",
+    "apD":"Appx. D:  Acknowledgements"
+
 }

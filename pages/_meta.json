@@ -1,4 +1,6 @@
 {
+    "index":"Indroduction",
+    "preface":"Preface",
     "up_&_going":"1. Up and Going",
     "scope_&_closures":"2. Scope and Closures",
     "this_&_object_prototypes":"3. this & Object Prototypes",

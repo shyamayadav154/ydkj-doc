@@ -1,5 +1,5 @@
  #  Scope & Closures
-# Appendix B: Polyfilling Block Scope
+## Appendix B: Polyfilling Block Scope
 
 In Chapter 3, we explored Block Scope. We saw that `with` and the `catch` clause are both tiny examples of block scope that have existed in JavaScript since at least the introduction of ES3.
 

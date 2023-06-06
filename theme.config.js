@@ -12,7 +12,11 @@ const themConfig = {
         return {
             titleTemplate: "%s - YDKJ Docs",
         }
+    },
+    sidebar:{
+        defaultMenuCollapseLevel:1
     }
+
 };
 
 export default themConfig;

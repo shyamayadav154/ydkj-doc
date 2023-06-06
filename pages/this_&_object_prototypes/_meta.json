@@ -1,3 +1,12 @@
 {
-    "apA":"Appendix A:  Acknowledgements"
+    "foreword":"Foreword by Nick Berardi",
+    "ch1":"Ch 1: this or That?",
+    "ch2":"Ch 2: this All Makes Sense Now!",
+    "ch3":"Ch 3: Objects",
+    "ch4":"Ch 4: Mixing (Up) \"class\" Objects ",
+    "ch5":"Ch 5: Prototypes",
+    "ch6":"Ch 6: Behavior Delegation",
+    "apA":"Appx. A:  ES6 class",
+    "apB":"Appx. B:  Acknowledgements"
+
 }

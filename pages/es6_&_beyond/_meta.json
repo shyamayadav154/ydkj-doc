@@ -1,3 +1,12 @@
 {
-    "apA":"Appendix A:  Acknowledgements"
+    "foreword":"Foreword by Rick Waldron",
+    "ch1":"Ch 1: ES? Now & Future",
+    "ch2":"Ch 2: Syntax",
+    "ch3":"Ch 3: Organization",
+    "ch4":"Ch 4: Async Flow Control",
+    "ch5":"Ch 5: Collections",
+    "ch6":"Ch 6: API Additions",
+    "ch7":"Ch 7: Meta Programming",
+    "ch8":"Ch 8: Beyond ES6",
+    "apA":"Appx. A: Thank You's"
 }

@@ -1,3 +1,10 @@
 {
-    "apA":"Appendix A:  Acknowledgements"
+    "foreword":"Foreword by David Walsh",
+    "ch1":"Ch 1: Types",
+    "ch2":"Ch 2: Values",
+    "ch3":"Ch 3: Natives",
+    "ch4":"Ch 4: Coercion",
+    "ch5":"Ch 5: Grammar",
+    "apA":"Appx. A:  Mixed Environment JavaScript",
+    "apB":"Appx. B:  Acknowledgements"
 }

@@ -1,3 +1,12 @@
 {
-    "apA":"Appendix A:  Acknowledgements"
+    "foreword":"Foreword by Jake Archibald",
+    "ch1":"Ch 1: Asynchrony: Now & Later",
+    "ch2":"Ch 2: Callbacks",
+    "ch3":"Ch 3: Promises",
+    "ch4":"Ch 4: Generators",
+    "ch5":"Ch 5: Program Performance",
+    "ch6":"Ch 6: Benchmarking & Tuning",
+    "apA":"Appx. A:  Library: asynquence",
+    "apB":"Appx. B:  Advanced Async Patterns",
+    "apC":"Appx. C:  Thank You's"
 }
