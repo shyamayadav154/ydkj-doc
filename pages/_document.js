@@ -7,7 +7,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head />
-        <body>
+        <body >
           <SkipNavLink styled />
           <Main />
           <NextScript />

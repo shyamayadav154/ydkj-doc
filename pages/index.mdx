@@ -3,7 +3,7 @@ import Image from 'next/image'
 export function ImagesComponent({children}){
 
 return(
-<div className='flex justify-center flex-wrap gap-5'>
+<div className='flex my-5 flex-wrap gap-5'>
 {children}
 </div>
 )
@@ -16,17 +16,16 @@ return(
 | :--- |
 
 ----
-----
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete. Also, these first-edition books are now **out of print** and can no longer be purchased. They can only be read for free online here in this markdown format.
 
 <ImagesComponent>
-<Image  src="/up_&_going/cover.jpg" width="200" height="300" /> 
-<Image  src="/scope_&_closures/cover.jpg" width="200" height="300" />
-<Image  src="/this_&_object_prototypes/cover.jpg" width="200" height="300" />
-<Image  src="/types_&_grammar/cover.jpg" width="200" height="300" />
-<Image  src="/async_&_performance/cover.jpg" width="200" height="300" />
-<Image src="/es6_&_beyond/cover.jpg" width="200" height="300" />
+<Image  src="/up_&_going/cover.jpg" width="100" height="150" /> 
+<Image  src="/scope_&_closures/cover.jpg" width="100" height="150" />
+<Image  src="/this_&_object_prototypes/cover.jpg" width="100" height="150" />
+<Image  src="/types_&_grammar/cover.jpg" width="100" height="150" />
+<Image  src="/async_&_performance/cover.jpg" width="100" height="150" />
+<Image src="/es6_&_beyond/cover.jpg" width="100" height="150" />
 </ImagesComponent>
  
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
