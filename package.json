@@ -7,13 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next dev",
     "build": "next build",
-    "start":"next start",
+    "start": "next start",
     "lint": "next lint"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@next/font": "^13.4.4",
     "next": "^13.4.4",
     "nextra": "^2.7.0",
     "nextra-theme-docs": "^2.7.0",
