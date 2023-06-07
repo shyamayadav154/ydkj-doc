@@ -1,11 +1,11 @@
 {
     "index":"Indroduction",
     "preface":"Preface",
-    "up_&_going":"1. Up and Going",
-    "scope_&_closures":"2. Scope and Closures",
-    "this_&_object_prototypes":"3. this & Object Prototypes",
-    "types_&_grammar":"4. Types & Grammar",
-    "async_&_performance":"5. Async & Performance",
-    "es6_&_beyond":"6. ES6 & Beyond"
+    "up_&_going":"Book 1: Up and Going",
+    "scope_&_closures":"Book 2: Scope and Closures",
+    "this_&_object_prototypes":"Book 3. this & Object Prototypes",
+    "types_&_grammar":"Book 4: Types & Grammar",
+    "async_&_performance":"Book 5: Async & Performance",
+    "es6_&_beyond":"Book 6: ES6 & Beyond"
 
 }
