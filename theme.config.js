@@ -31,7 +31,7 @@ const themConfig = {
     },
     head: () => {
         const { route } = useRouter();
-        const { frontMatter, title } = useConfig();
+        let { frontMatter, title } = useConfig();
         const titleSuffix = "YDKJ Docs";
         const description = "You Don't Know JS 1st Ed. - Docs";
         const imageUrl = new URL("https://ydkj-doc.vercel.app/logo.png");
@@ -39,7 +39,9 @@ const themConfig = {
         if (!/\/index\.+/.test(route)) {
             imageUrl.searchParams.set("title", title);
         }
-        const ogTitle = title ? `${title} – YDKJ Docs` : `YDKJ Docs: ${titleSuffix}`;
+        const ogTitle = title
+            ? `${title} – YDKJ Docs`
+            : `YDKJ Docs: ${titleSuffix}`;
         const ogDescription = frontMatter.description || description;
         const ogImage = frontMatter.image || imageUrl.toString();
 
