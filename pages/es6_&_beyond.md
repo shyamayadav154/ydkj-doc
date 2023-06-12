@@ -6,7 +6,7 @@
 ----
 ----
 
-<img src="cover.jpg" width="300">
+![cover](./es6_&_beyond/cover.jpg)
 
 -----
 
@@ -14,16 +14,16 @@
 
 -----
 
-[Table of Contents](toc.md)
+[Table of Contents](./es6_&_beyond/toc.md)
 
 * [Foreword](foreword.md) (by [Rick Waldron](http://bocoup.com/weblog/author/rick-waldron/))
 * [Preface](../preface.md)
-* [Chapter 1: ES? Now & Future](ch1.md)
-* [Chapter 2: Syntax](ch2.md)
-* [Chapter 3: Organization](ch3.md)
-* [Chapter 4: Async Flow Control](ch4.md)
-* [Chapter 5: Collections](ch5.md)
-* [Chapter 6: API Additions](ch6.md)
-* [Chapter 7: Meta Programming](ch7.md)
-* [Chapter 8: Beyond ES6](ch8.md)
-* [Appendix A: Thank You's!](apA.md)
+* [Chapter 1: ES? Now & Future](./es6_&_beyond/ch1.md)
+* [Chapter 2: Syntax](./es6_&_beyond/ch2.md)
+* [Chapter 3: Organization](./es6_&_beyond/ch3.md)
+* [Chapter 4: Async Flow Control](./es6_&_beyond/ch4.md)
+* [Chapter 5: Collections](./es6_&_beyond/ch5.md)
+* [Chapter 6: API Additions](./es6_&_beyond/ch6.md)
+* [Chapter 7: Meta Programming](./es6_&_beyond/ch7.md)
+* [Chapter 8: Beyond ES6](./es6_&_beyond/ch8.md)
+* [Appendix A: Thank You's!](./es6_&_beyond/apA.md)

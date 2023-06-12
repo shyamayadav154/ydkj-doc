@@ -3,6 +3,7 @@ import { useConfig } from "nextra-theme-docs";
 import { useRouter } from "next/router";
 
 const themConfig = {
+    docsRepositoryBase: "https://github.com/shyamayadav154/ydkj-doc/tree/main",
     logo: () => (
         <>
             <img
@@ -12,9 +13,10 @@ const themConfig = {
                 src="/logo.png"
                 alt="logo"
             />
-            <h1>You Don't Know JS 1st Ed.</h1>
+            <h1>You Don't Know JS</h1>
         </>
     ),
+    
     footer: {
         text: "YDKJ Docs 2023",
     },
