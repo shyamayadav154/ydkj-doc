@@ -9,23 +9,23 @@
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete. Also, these first-edition books are now **out of print** and can no longer be purchased. They can only be read for free online here in this markdown format.
 
-<img src="up %26 going/cover.jpg" width="75">&nbsp;
-<img src="scope %26 closures/cover.jpg" width="75">&nbsp;
-<img src="this %26 object prototypes/cover.jpg" width="75">&nbsp;
-<img src="types %26 grammar/cover.jpg" width="75">&nbsp;
-<img src="async %26 performance/cover.jpg" width="75">&nbsp;
-<img src="es6 %26 beyond/cover.jpg" width="75">
+<img src="./public/up_&_going/cover.jpg" width="75">&nbsp;
+<img src="./public/scope_&_closures/cover.jpg" width="75">&nbsp;
+<img src="./public/this_&_object_prototypes/cover.jpg" width="75">&nbsp;
+<img src="./public/types_&_grammar/cover.jpg" width="75">&nbsp;
+<img src="./public/async_&_performance/cover.jpg" width="75">&nbsp;
+<img src="./public/es6_&_beyond/cover.jpg" width="75">
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
 ## Titles
 
-* Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
-* Read online (free!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
-* Read online (free!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-* Read online (free!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
-* Read online (free!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance)
-* Read online (free!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
+* Read online (free!): ["Up & Going"](up_&_going)
+* Read online (free!): ["Scope & Closures"](scope_&_closures)
+* Read online (free!): ["this & Object Prototypes"](this_&_object_prototypes)
+* Read online (free!): ["Types & Grammar"](types_&_grammar)
+* Read online (free!): ["Async & Performance"](async_&_performance)
+* Read online (free!): ["ES6 & Beyond"](es6_&_beyond)
 
 ## Publishing
 
