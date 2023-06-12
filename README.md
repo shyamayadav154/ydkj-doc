@@ -20,12 +20,12 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 
 ## Titles
 
-* Read online (free!): ["Up & Going"](up_&_going)
-* Read online (free!): ["Scope & Closures"](scope_&_closures)
-* Read online (free!): ["this & Object Prototypes"](this_&_object_prototypes)
-* Read online (free!): ["Types & Grammar"](types_&_grammar)
-* Read online (free!): ["Async & Performance"](async_&_performance)
-* Read online (free!): ["ES6 & Beyond"](es6_&_beyond)
+* Read online (free!): ["Up & Going"](https://ydkj-doc.vercel.app/up_&_going)
+* Read online (free!): ["Scope & Closures"](https://ydkj-doc.vercel.app/scope_&_closures)
+* Read online (free!): ["this & Object Prototypes"](https://ydkj-doc.vercel.app/this_&_object_prototypes)
+* Read online (free!): ["Types & Grammar"](https://ydkj-doc.vercel.app/types_&_grammar)
+* Read online (free!): ["Async & Performance"](https://ydkj-doc.vercel.app/async_&_performance)
+* Read online (free!): ["ES6 & Beyond"](https://ydkj-doc.vercel.app/es6_&_beyond)
 
 ## Publishing
 
