@@ -6,19 +6,7 @@ class MyDocument extends Document {
     render() {
         return (
             <Html lang="en">
-                <Head>
-                    <script src="https://openchat.so/chat.js"></script>
-                    <script>
-                        {`
-document.addEventListener('DOMContentLoaded', function() {
-    var chatConfig = {
-    token: "YqCXSKOY9RFBME8p7ZHi",
-    };
-    initializeChatWidget(chatConfig);
-});
-`}
-                    </script>
-                </Head>
+                <Head/>
                 <body>
                     <SkipNavLink styled />
                     <Main />
