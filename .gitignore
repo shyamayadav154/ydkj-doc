@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# next sitemap output
+public/robots.txt
+public/sitemap.xml
+public/sitemap-0.xml
+
+    
